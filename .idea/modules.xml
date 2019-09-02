@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/automated-testing-core.iml" filepath="$PROJECT_DIR$/automated-testing-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webdriver-core/pigeon.iml" filepath="$PROJECT_DIR$/webdriver-core/pigeon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webdriver-core-test/pigeon-test.iml" filepath="$PROJECT_DIR$/webdriver-core-test/pigeon-test.iml" />
+    </modules>
+  </component>
+</project>
